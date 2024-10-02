@@ -1,8 +1,6 @@
 # domain-availability-notifier
 A bash script to monitor domain availability and send Telegram notifications via cron scheduling.
 
-Sure! Here's a detailed article explaining how to set up a cron job to monitor domain availability and send notifications via Telegram.
-
 ---
 
 ### How to Monitor Domain Availability and Send Telegram Notifications via Cron
